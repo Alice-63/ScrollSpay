@@ -1,2 +1,2 @@
-# ScrollSpay
+# ScrollSpy
 ScrollSpay With Bootstrap
