@@ -1,0 +1,10 @@
+*{box-sizing: border-box;}
+
+body
+{
+position: relative;    
+}
+#home, #about, #service, #contact
+{
+    padding: 400px 0;
+}
